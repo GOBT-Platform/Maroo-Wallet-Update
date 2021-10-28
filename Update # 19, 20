@@ -1,1 +1,28 @@
 
+[GOB Wallet - Alpha 0]
+gobwallet_release_18(1.0).apk
+
+1. screenLock Change
+    - 
+- If you start the app anew, it will be activated unconditionally. (requires some optimization)
+    - Activated by condition when the app changes to "background —> foreground".
+
+https://drive.google.com/file/d/1HKmNf5BwoGSBI8Fs-fDLGSawe_6_4j1X/view?usp=sharinge
+
+GOB Wallet - alpha 0] # 19
+
+- Updated : Fixed 'screen lock' to be activated only after the wallet is created
+- Etc : 
+Fixed it to 'portrait' to prevent the screen from being rotated.
+- apk : [https://drive.google.com/file/d/1002c2NjyKBCiKJ5lIAknbxhBE6GwMJxp/view?usp=sharing]
+(https://drive.google.com/file/d/1002c2NjyKBCiKJ5lIAknbxhBE6GwMJxp/view?usp=sharing)
+
+[GOB Wallet - alpha 0] # 20
+
+- Added : actionType 'appExit' 
+- Added : actionType 'injectJavaScript' .
+- Updated : Added 'keys' to actionType 'localStorage'. Now you can get multiple key values ​​at once.
+- Updated : On iOS, you can close a new window with a swipe gesture.
+
+apk : [https://drive.google.com/file/d/1QoorRS6x6ucpaunh4F0Xa5xl1IQGfM-L/view?usp=sharing]
+(https://drive.google.com/file/d/1QoorRS6x6ucpaunh4F0Xa5xl1IQGfM-L/view?usp=sharing)
