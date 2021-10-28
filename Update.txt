@@ -1,0 +1,59 @@
+[GOB Wallet - alpha 0] 
+# 21
+
+- Added : A UI to handle push messages has been added.
+- Updated : Alert, Dialog UI has been modified.
+
+
+[GOB Wallet - alpha 0] 
+# 22
+
+- Added : aAdded actionType 'urlRequest'.
+
+
+[GOB Wallet - alpha 0] 
+# 23
+
+- Fixed : Fix headers handling error in urlRequest
+
+
+[GOB Wallet - alpha 0.1] 
+# 24
+
+- Updated : Change App Icon, UI, and Theme Color
+
+
+[GOB Wallet - alpha 0.1]
+# 28
+
+- Added : Added actionType 'eventListener' .
+
+
+[GOB Wallet - alpha 0.1]
+# 30
+
+- Fixed : Fixed a bug that caused abnormal termination on devices without biometric authentication.
+- Added : Added debugging mode to the app. (Only apps built in debug mode are available.)
+- Added :Added 'debugMode' value to actionType 'get'. You can see the build mode of the current app.
+- Added : Added actionType 'stateManager'. Now, WebViews can exchange events and data with each other through state management.
+
+
+[GOB Wallet - alpha 0.1]
+# 32
+
+- Added : Added 'names' to actionType 'stateManager'. Now it is possible to manage names as an array at once.
+- Deprecated : Removed actiontype 'passDataToParent'. You can use stateManager instead.
+
+
+[GOB Wallet - alpha 0]
+# 33
+
+- Etc : The data storage structure has changed, so you need to delete the app and install a new one.
+- Added : Added 'injectJavaScriptUrl' to windowOpen. Now you can inject javascript after webview load.
+
+
+[GOB Wallet - alpha 0.1]
+# 34
+
+- Fixed : Fixed a bug where an afterimage remained on the screen lock authentication screen.(iOS)
+- Fixed : Changed app data not to be automatically backed up.(Andorid)
