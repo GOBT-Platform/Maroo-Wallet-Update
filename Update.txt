@@ -57,3 +57,26 @@
 
 - Fixed : Fixed a bug where an afterimage remained on the screen lock authentication screen.(iOS)
 - Fixed : Changed app data not to be automatically backed up.(Andorid)
+
+
+[GOB Wallet - alpha 0.1]
+# 35
+
+- Fixed : Delete 'test code' (ㅡ,.ㅡ;)
+
+
+[GOB Wallet - alpha 0.2]
+# 36
+
+- Fixed : Fixed a bug where some cameras would zoom in QR Scan.(iOS)
+- Updated :The QR Scan UI has been changed.
+- Updated : The Pincode UI has been changed. (Some features are being tested)
+- Etc : We divided the app into development (dev) and production (live). 
+  From now on, we will share our development app as a test. Uninstall the previously installed app and install a new one.
+
+
+[GOB Wallet]
+# 47 (Alpha 0.3)
+
+- Fixed :There was an error in biometric authentication in Flutter 2.0 / Android, so it was temporarily deleted. 
+  We will apply it again after the error is completely removed.
