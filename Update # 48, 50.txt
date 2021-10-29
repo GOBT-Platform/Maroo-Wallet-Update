@@ -1,0 +1,15 @@
+[GOB Wallet]
+# 48 (Alpha 0.4)
+
+	- Updated : For security, the 'local storage' storage method has been changed to a 'secure' method. Data stored in 'local' is now inaccessible to physical or other apps. (using iOS:Keychain, Andorid:KeyStore)
+	- Updated : Added data encryption option to "actionType 'localStorage'". Encryption can be applied when data is stored.. (AES.cbc, padding 'PKCS7')
+	- Updated : Added variable of 'titleBarEndButtonImageUrl', to 'titleBarEndButtonOnCallback' actionType 'windowOpen', pushType. Now you can add one button as an option on windowOpen.
+	- Etc : You need to delete the old app and install the new app.
+
+
+[GOB Wallet]
+# 50 (Alpha 0.5)
+
+	- Updated : Added 'image' processing part to 'push notification'.
+	- Updated : Updated to 'Flutter 2.0'. (Apply Null-Safety)
+	- Added : Added 'network' detection function.
