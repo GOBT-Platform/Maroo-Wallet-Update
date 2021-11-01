@@ -1,0 +1,26 @@
+[GOB Wallet]
+# 51 (Alpha 0.6)
+
+- Updated : Added exception handling when calling actionType 'onCallback' function. 
+	Before calling a javascript function, check if the function exists.
+- Updated : Initialize 'body', '{userData}' to null in actionType 'onCallback'.
+- Updated : Added 'load' action of actionType 'tabBar'. 
+	Now you can load/reload the tab's screen from anywhere.
+- Updated : Added iOS permission descriptions.(KO)
+- Fixed : a
+Added state exception handling when the screen page is changed in ctionType 'stateManager'. 
+	(Always, only the state of the top-level page is managed.)
+- Fixed : Fix the biometric authentication localizedReason NULL error(iOS)
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1M_DqpYw17pO0FGKTNI4kYD6NmO0E5k-6/view?usp=sharing)
+
+
+[Maroo - Beta] 
+# 70 (Beta)
+
+- Updated : UI change with Maroo wallet
+- Etc : You need to delete the old app and install a new one.
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1yBA60oXrccPX5yVlDo2dd24yG7xSTlFV/view?usp=sharing)
