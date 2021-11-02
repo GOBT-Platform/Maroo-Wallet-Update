@@ -1,0 +1,24 @@
+[Maroo - Beta]
+# 71 (Beta)
+
+- Updated : 
+Ethereum testnet changed to 'Ropsten → Kovan'.
+- Fixed : Fixed a bug where the coin list was not updated when changing the chain.
+- Fixed : 'ethereum:' was added when fetching the metamask address 'QR value'.
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1f1qnJ4I_rt_jgM15-_ft3V1tGzICsdNs/view?usp=sharing)
+
+
+[Maroo - Beta]
+# 72 (Beta)
+
+- Fixed : Fixed a bug where coins could not be transferred
+- Updated : If the price value of the home screen is large, the font size is automatically adjusted.
+- Updated :  The icon image not in Zapper is modefied to import from 
+[https://dev-wallet.nefone.net/skin/en/assets/images/coins/]
+(https://dev-wallet.nefone.net/skin/en/assets/images /coins/).
+- Etc : Changes and optimizations of other UI 
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1VqCQEubda1mUesf1U3-2-YnfWlkwnslI/view?usp=sharing)
