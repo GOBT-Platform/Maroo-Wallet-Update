@@ -1,0 +1,37 @@
+[Maroo - Beta]
+# 73 (Beta)
+
+- Updated : Added progress bar when loading information.
+- Updated : It has been modified to become the history back of Webview.
+- Fixed : Tx list information has been modified to look normal. (Pending Tx is currently working...)
+- Fixed : Fixed iPhone app name appearing as FARO.
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1CchddCw4hzbF0bcRAz9So-qo7DJIkO_9/view?usp=sharing)
+
+
+[Maroo - Beta]
+# 74 (Beta)
+
+- Fixed : Fixed an error where the coin list could not be imported(change Zapper Url)
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/17wswLEqEi3B4Uz5KPWYNl4TuaBkoqKC7/view?usp=sharing)
+
+
+[Maroo - Beta]
+# 75 (Beta)
+
+- Fixed :Fixed an error where the coin list could not be imported(change Zapper Url)
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1d5cKS6d_DfvT9Wh8o9wTcSOC7bjGVbz1/view?usp=sharing)
+
+
+[Maroo - Beta]
+# 76 (Beta)
+
+- Updated : Pending history output has been added.
+- Etc : changes and optimizations of other UI 
+
+(https://drive.google.com/file/d/1Azf4ZXLJumE6pyzu2NSIeQmw737SkK6a/view?usp=sharing)
