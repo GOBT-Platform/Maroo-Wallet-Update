@@ -1,0 +1,24 @@
+[Maroo - Beta]
+# 77 (Beta)
+
+- Updated : Added cashing function to home screen list information. (5 min)
+- Updated : 
+The speed has been improved by optimizing the pedding tx processing part.
+- Updated : The DApp connection UI has been updated.
+- Etc : changes and optimizations of other UI 
+- Etc : As we are currently working on changing the DAPP protocol, 
+  the DAPP function may not work smoothly. (Note)
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1EMZggU3WhAt9lbFUPx-ngWTvXtfV-0Oo/view?usp=sharing
+
+
+[Maroo - Beta]
+# 78 (Beta)
+
+- Updated : It informs you which chains are available when connecting the dapp..
+- Updated : inject script updated
+- Etc : changes and optimizations of other UI 
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1k7NFmf2BcU0S2keXozoBvOG99te-Y7Bg/view?usp=sharing)
