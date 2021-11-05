@@ -1,0 +1,17 @@
+[Maroo - Beta]
+# 79 (Beta)
+
+- Fixed : Fixed a bug where icons on the dapp screen did not appear.
+- Updated : Assets image update
+- Etc : You need to delete the app and install a new one. <- Check it out!
+
+[Meet Google Drive - One place for all your files]
+(https://drive.google.com/file/d/1uH_THoMMB_KtJz0SVVY8-weE1p-IKgGY/view?usp=sharing)
+
+
+# 83 (Release)
+
+- Fixed : Fixed an error where the 'Send' button was not activated when importing address
+	information fromSend to QR.
+- Updated : Changed the UI so that asset information can only be viewed on the mainnet.
+- Etc : - Optimizations and performance improvements of other UI 
