@@ -1,0 +1,16 @@
+# 84
+
+- Updated : Network change, address copy UI has been added.
+- Updated : Added verification code confirmation UI when sending coins.
+- Updated : Added verification code confirmation UI when using DApp.
+- Fixed : It has been fixed an error that could not be transmitted when the final value was '0' when sending coins 
+- Etc : changes and optimizations of other UI 
+
+
+# 85
+
+- Updated : Added UI to enter fees manually.
+- Updated : Currency output UI has been fixed.
+- Fixed : A typo within the app has been fixed.
+- Fixed : Fixed a partial error in verifying the fee when sending ERC20 coins.
+- Etc : changes and optimizations of other UI 
