@@ -1,0 +1,9 @@
+# 96
+
+- Updated : The fee (GWei) input has been changed to be treated as an integer.
+- Updated : Changed the UI so that it is not affected by the system font size..
+- Added : 
+Added essential coin information for the app. (GOB, GOBT)
+- Fixed : The StatusBar color has been modified to appear normally in the Android environment..
+- Fixed : Fixed an error where the coin icon did not appear in the coin information.
+- Etc : - Optimizations and performance improvements of other UI .
