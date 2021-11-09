@@ -1,0 +1,13 @@
+# 105
+
+	- Has been added the nformation displayed when using DApp.('gasPrice')
+	- Changed the current chain display UI to icon.
+	- Changed the display of address information in transmission history. (Send/Receive)
+	- Fixed an error where the output overlapped when the coin's number length was long (including decimal points).
+	- Decimals : Corrected the error of the coin set to 8. (Inquiry, Send)
+	- The network change UI has been divided into mainnet and testnet.
+	- Fixed a back error when the screen is a web view.
+	- Changed to be more readable of the crypto asset and converted value information UI 
+	- 'Dependency packages' have been cleaned up and stabilized.
+	- Chain related engines have been stabilized.
+	- Optimizations and performance improvements of other UI .
