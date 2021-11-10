@@ -1,0 +1,14 @@
+# 106
+
+ - Added Huobi chain.
+ - ee calculation (synchronization) in sending coins has been stabilized.
+ - Optimizations and performance improvements of other UI .
+ 
+# 110
+
+ - Added account creation/import function.
+ - The address book/account selection UI has been changed.
+ - Fixed an error where the same account was duplicated in account change.
+ - Accounts imported from outside have been modified so that the 12-digit mnemonic is not visible.
+ - A change account button has been added to the 12-word recovery screen.
+ - Optimizations and performance improvements of other UI .
