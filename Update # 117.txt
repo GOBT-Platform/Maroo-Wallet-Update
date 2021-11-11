@@ -1,0 +1,13 @@
+# 117
+
+- Edited so that the account name can be changed..
+- Fixed an error of re-importing asset information after account change.
+- Monitor the network status (connection/disconnection)
+- Listing coin added.
+    - Ethereum : BKC, HD
+    - Huobi : USDTHECO
+- Added default custom scheme to WebView.
+- Exception handling has been added to facilitate communication with WebView.
+- A default UserAgent value has been set.
+- Chain change UI has been fixed.
+- Optimizations and performance improvements of other UI .
