@@ -1,0 +1,14 @@
+
+# 1.10 
+
+	- Coin management UI performance has been improved.	
+	- Improved UI change performance on chain changes.
+	- The security function of the private key has been improved.
+	- The ICON on the setting screen has been changed.
+	- Accounts imported from outside are displayed in an easy-to-understand manner.
+	- Fixed an error when importing accounts as QR codes.
+	- App icons and default images have been changed.
+	- A warning message has been added when requesting coin transfer with the same information.
+	- The decimal point display of assets has been modified to look normal.
+	- Klaytn chain has been added.
+	- Optimizations and performance improvements of other UI 
