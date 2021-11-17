@@ -1,0 +1,11 @@
+# 1.11 Update 
+
+ - An error where the coin icon appeared small has been fixed.
+ - The Maru Wallet icon has been modified when connecting to a DApp.
+ - Added Crashlytics for app analysis.
+ - An error that occurred when 'cancel' on the authentication screen has been fixed.
+ - An error in which fees accumulate when editing fees has been fixed.
+ - The type error in the NFT list has been fixed.
+ - A QR code import function has been added to 'Import My Wallet'.
+ - splash has been changed.
+ - Other UI optimizations and performance improvements.
