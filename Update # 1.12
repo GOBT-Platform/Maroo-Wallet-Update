@@ -1,0 +1,7 @@
+# 1.12 Update
+
+ - When inputting the amount of coin transfer, the input below the decimal 
+	point matches the Decimal value.
+ - Policy consent UI has been changed.
+ - SDK and Package have been updated to the latest version.
+ - Other UI optimizations and performance improvements.
